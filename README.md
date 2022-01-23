@@ -9,12 +9,12 @@ Le dataset d’entrainement est composé de 3435 images annotées au format Pasc
 
 
 ## Information sur le dataset de validation
-Le dataset de validation utilisé pour tester la fiabilité de l’algorithme est :
-https://www.kaggle.com/andrewmvd/face-mask-detection
+Le dataset de validation utilisé pour tester la fiabilité de l’algorithme est :  
+https://www.kaggle.com/andrewmvd/face-mask-detection  
 3 classes d’objets sont présentes :
 -	Classe without_mask : visage sans masque,
 -	Classe with_mask : visage avec masque,
--	Classe with_incorrect_mask : visage avec masque mal porté.
+-	Classe with_incorrect_mask : visage avec masque mal porté.  
 Il est composé de 853 images annotées au format Pascal/VOC.
 
 
