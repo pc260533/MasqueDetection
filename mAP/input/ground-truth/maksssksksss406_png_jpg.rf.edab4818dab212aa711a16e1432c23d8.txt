@@ -1,0 +1,1 @@
+with_incorrect_mask 177 135 248 284

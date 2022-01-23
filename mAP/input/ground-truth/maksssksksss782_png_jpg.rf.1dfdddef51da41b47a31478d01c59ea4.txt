@@ -1,0 +1,2 @@
+with_incorrect_mask 210 266 237 319
+with_mask 300 157 340 232

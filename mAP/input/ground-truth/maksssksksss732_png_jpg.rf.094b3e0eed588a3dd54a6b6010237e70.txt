@@ -1,0 +1,8 @@
+with_mask 302 72 335 128
+with_mask 360 78 373 102
+with_mask 238 75 268 122
+with_mask 205 75 230 122
+with_mask 157 71 182 105
+with_mask 111 72 134 111
+without_mask 61 83 77 114
+without_mask 40 97 59 129

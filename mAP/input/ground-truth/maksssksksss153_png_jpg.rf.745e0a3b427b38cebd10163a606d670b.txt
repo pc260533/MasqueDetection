@@ -1,0 +1,2 @@
+with_mask 92 32 116 67
+without_mask 300 32 323 67
